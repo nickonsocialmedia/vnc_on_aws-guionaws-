@@ -1,6 +1,8 @@
 # vnc_on_aws-guionaws-
 This is how to use a gui interface on aws. there is lots to go over for further modifications but for not should hold true. this is a secure tunnel to vnc.
 
+# I WILL FURTHER EDIT THIS IN THE FUTURE.
+
 # Getting Started:
 
 Set up an Ubuntu server on free tear, free-tier only allows for one cpu so not much but still enough for what were doing. make security keys i named mine AWSKEYS and made them .pem edit security groups and ass security group all utf source 0.0.0.0 and add all tcp source 0.0.0.0 26GB of Storage. go to your instance an take note of your ip address you'll need it.
